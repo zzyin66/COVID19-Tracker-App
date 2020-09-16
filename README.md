@@ -4,6 +4,8 @@ This project will allow the user to retrieve live data from an API to display da
 
 Data displayed: Recovered, Infected, Deaths
 
+const url = 'https://covid19.mathdro.id/api';
+
 ## Available Scripts
 
 In the project directory, you can run:
