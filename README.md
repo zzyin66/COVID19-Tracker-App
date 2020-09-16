@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project will allow the user to retrieve live data from an API to display data for every country on the current state of COVID19.
 
-Data displayed: Recovered, 
+Data displayed: Recovered, Infected, Deaths
 
 ## Available Scripts
 
